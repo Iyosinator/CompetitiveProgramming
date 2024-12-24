@@ -1,0 +1,6 @@
+def ValidPalindrome():
+    dict = {
+        ')':'(',
+        '}':'{',
+        ']':'['
+    }
